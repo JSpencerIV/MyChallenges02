@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\bin\Epic_SpyChallenge.dll.config
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\bin\Epic_SpyChallenge.dll
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\bin\Epic_SpyChallenge.pdb
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\obj\Debug\Epic_SpyChallenge.csprojResolveAssemblyReference.cache
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\obj\Debug\Epic_SpyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\obj\Debug\Epic_SpyChallenge.dll
+C:\Users\dell\source\repos\Epic_SpyChallenge\Epic_SpyChallenge\obj\Debug\Epic_SpyChallenge.pdb
